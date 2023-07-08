@@ -27,6 +27,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 </div>
+<br>
 ---
 ### 💻 Интересующие технологии:
 <div>
@@ -35,11 +36,9 @@
 ---
 ### 🛠 Инструменты:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
 </div>
 ---
-### 💻 Codewars:
-![codewars](https://www.codewars.com/users/FilimonovAlexey/badges/large)
 ### ⚙️ GitHub статистика:
 <table>
   <tr>
