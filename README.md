@@ -1,5 +1,5 @@
 @@ -1,12 +1,16 @@
-# Привет, меня зовут Алексей!
+# Привет, меня зовут Сармат!
 ---
 ### :man_technologist: Обо мне:
 
@@ -9,7 +9,7 @@
  <img width="600" src="assets/github-snake.svg" alt="snake"/>
 </p>
 
-- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-filimonovalexey-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rrtacee) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sarsoev2@gmail.com)
+- :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-SarmatArsoev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rrtacee) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sarsoev2@gmail.com)
 ---
 ### 🤝 Социальные сети:
   <div id="badges">
