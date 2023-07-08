@@ -26,6 +26,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C" width="40" height="40"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="SPRING" alt="C" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" title="SpringBoot" alt="C" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="C" width="40" height="40"/>&nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" title="Maven" alt="C" width="100" height="40"/>&nbsp;
 </div>
@@ -35,15 +36,15 @@
 ---
 ### 💻 Интересующие технологии:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="git" alt="git" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="git" alt="git" width="50" height="50"/>&nbsp
 </div>
 ---
 ### 🛠 Инструменты:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="60"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="60"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="60"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntellijIDEA" alt="DaVinci Resolve" width="60" height="60"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="BitBucked" alt="DaVinci Resolve" width="40" height="60"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="DaVinci Resolve" width="40" height="60"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenShift-LogoType.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="60"/>&nbsp;
 </div>
 ---
 ### ⚙️ GitHub статистика:
@@ -58,4 +59,4 @@
   </tr>
 </table>
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=filimonovalexey)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SadButTruee)
