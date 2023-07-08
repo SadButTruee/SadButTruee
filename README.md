@@ -1,14 +1,8 @@
-@@ -1,12 +1,16 @@
-
 # Привет, меня зовут Сармат!
 ---
 ### :man_technologist: Обо мне:
 
 Я back разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался школе программирования Ecole 42(Школа 21). Изучал такие языки как C, C++, Java. На данный момент более года работаю Java-разработчиком
-
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-SarmatArsoev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rrtacee) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sarsoev2@gmail.com)
 ---
@@ -44,7 +38,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntellijIDEA" alt="DaVinci Resolve" width="60" height="60"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="BitBucked" alt="DaVinci Resolve" width="40" height="60"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="DaVinci Resolve" width="40" height="60"/>&nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenShift-LogoType.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="60"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenShift-LogoType.svg" title="OpenShift" alt="DaVinci Resolve" width="40" height="60"/>&nbsp;
 </div>
 ---
 ### ⚙️ GitHub статистика:
@@ -58,5 +52,3 @@
     </td>
   </tr>
 </table>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=SadButTruee)
