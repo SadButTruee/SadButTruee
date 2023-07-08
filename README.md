@@ -28,6 +28,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
 </div>
 <br>
+
+<br>
 ---
 ### 💻 Интересующие технологии:
 <div>
@@ -36,7 +38,7 @@
 ---
 ### 🛠 Инструменты:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="DaVinci Resolve" alt="DaVinci Resolve" width="40" height="60"/>&nbsp;
 </div>
 ---
 ### ⚙️ GitHub статистика:
