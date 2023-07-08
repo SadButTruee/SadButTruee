@@ -22,8 +22,8 @@
    <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="SPRING" alt="C" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" title="SpringBoot" alt="C" width="40" height="40"/>&nbsp;
  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="Postgresql" alt="C" width="40" height="40"/>&nbsp;
-   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png" title="JUnit" alt="C" width="40" height="40"/>&nbsp;
-     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Mockito_Logo.png" title="Mockito" alt="C" width="40" height="40"/>&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/JUnit_5_Banner.png" title="JUnit" alt="C" width="80" height="40"/>&nbsp;
+     <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Mockito_Logo.png" title="Mockito" alt="C" width="80" height="40"/>&nbsp;
  <img src="https://upload.wikimedia.org/wikipedia/commons/5/52/Apache_Maven_logo.svg" title="Maven" alt="C" width="100" height="40"/>&nbsp;
 </div>
 <br>
