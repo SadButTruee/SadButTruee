@@ -2,7 +2,7 @@
 ---
 ### :man_technologist: Обо мне:
 
-Я back разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался школе программирования Ecole 42(Школа 21). Изучал такие языки как C, C++, Java. На данный момент более года работаю Java-разработчиком
+Я back разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался школе программирования Ecole 42(Школа 21). Изучал такие языки как C, C++, Java. На данный момент работаю Java-разработчиком
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-SarmatArsoev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rrtacee) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sarsoev2@gmail.com)
 ---
