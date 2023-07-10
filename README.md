@@ -39,7 +39,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenShift-LogoType.svg" title="OpenShift" alt="DaVinci Resolve" width="40" height="60"/>&nbsp;
 </div>
 ---
-### ⚙️ GitHub статистика:
+GitHub статистика:
 <table>
   <tr>
     <td>
