@@ -11,7 +11,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
-💻 <h3>Технологии:</h3>
+<h3>Технологии:</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="html5" width="40" height="40"/>&nbsp
@@ -27,11 +27,11 @@
 <br>
 
 <br>
-💻 <h3>Интересующие технологии:<h3>
+<h3>Интересующие технологии:<h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="RUST" alt="git" width="50" height="50"/>&nbsp
 </div>
-🛠 Инструменты:
+<h3>Инструменты:</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntellijIDEA" alt="DaVinci Resolve" width="80" height="100"/>&nbsp;
    <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="BitBucked" alt="DaVinci Resolve" width="40" height="60"/>&nbsp;
