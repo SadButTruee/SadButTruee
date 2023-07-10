@@ -5,15 +5,13 @@
 Я back разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой путь в it начался школе программирования Ecole 42(Школа 21). Изучал такие языки как C, C++, Java. На данный момент работаю Java-разработчиком
 
 - :mailbox: Как связаться со мной: [![Telegram Badge](https://img.shields.io/badge/-SarmatArsoev-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/rrtacee) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:sarsoev2@gmail.com)
----
-### 🤝 Социальные сети:
+- 🤝 Социальные сети:
   <div id="badges">
     <a href="https://vk.com/s.arsoev" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
----
-### 💻 Технологии:
+💻 <h4>Технологии:</h4>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="html5" width="40" height="40"/>&nbsp
@@ -30,7 +28,7 @@
 
 <br>
 ---
-### 💻 Интересующие технологии:
+💻 Интересующие технологии:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="RUST" alt="git" width="50" height="50"/>&nbsp
 </div>
