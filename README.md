@@ -11,7 +11,7 @@
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>
   </div>
-💻 <h2>Технологии:</h2>
+💻 <h3>Технологии:</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="java" alt="html5" width="40" height="40"/>&nbsp
@@ -27,8 +27,7 @@
 <br>
 
 <br>
----
-💻 Интересующие технологии:
+💻 <h3>Интересующие технологии:<h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="RUST" alt="git" width="50" height="50"/>&nbsp
 </div>
