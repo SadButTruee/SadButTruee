@@ -30,8 +30,8 @@
 <h3>Инструменты:</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntellijIDEA" alt="DaVinci Resolve" width="80" height="100"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="BitBucked" alt="DaVinci Resolve" width="40" height="60"/>&nbsp;
-   <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="DaVinci Resolve" width="40" height="60"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original-wordmark.svg" title="BitBucked" alt="DaVinci Resolve" width="40" height="60"/>&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenShift-LogoType.svg" title="OpenShift" alt="DaVinci Resolve" width="40" height="60"/>&nbsp;
 </div>
 GitHub статистика:
 <table>
