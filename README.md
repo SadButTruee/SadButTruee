@@ -27,10 +27,6 @@
 <br>
 
 <br>
-<h3>Интересующие технологии:<h3>
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="RUST" alt="git" width="50" height="50"/>&nbsp
-</div>
 <h3>Инструменты:</h3>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original-wordmark.svg" title="IntellijIDEA" alt="DaVinci Resolve" width="80" height="100"/>&nbsp;
